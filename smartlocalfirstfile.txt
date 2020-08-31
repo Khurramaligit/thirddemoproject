@@ -1,2 +1,5 @@
 Welcome!
 This is smart GIT first text file
+
+Kindly update!
+New line added in first text file
